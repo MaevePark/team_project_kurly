@@ -1,1 +1,2 @@
-# kurly mini_project
+# team_project_kurly
+
